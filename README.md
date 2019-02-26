@@ -1,1 +1,1 @@
-# Reasoning-ability-of-DNN
+# Reasoning abilities of DNN
